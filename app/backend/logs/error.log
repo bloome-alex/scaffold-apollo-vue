@@ -1,0 +1,7 @@
+2023-07-15 18:56:00 error: 🚀  Server ready at: http://localhost:5000/graphql
+2023-07-15 18:56:13 error: 🚀  Server ready at: http://localhost:5000/graphql
+2023-07-15 18:58:35 error: undefined
+2023-07-15 18:59:02 error: undefined
+2023-07-15 18:59:16 error: E11000 duplicate key error collection: e-commerce.books index: title_1 dup key: { title: "titulo1" }
+2023-07-15 19:47:24 error: E11000 duplicate key error collection: e-commerce.books index: title_1 dup key: { title: "titulo ejemplo" }
+2023-07-15 19:48:40 error: E11000 duplicate key error collection: e-commerce.books index: title_1 dup key: { title: "titulo ejemplo" }
